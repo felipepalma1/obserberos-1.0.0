@@ -1,0 +1,1531 @@
+{
+  "MATIC": {
+    "full_name": "Polygon ERC20",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "22.314350740000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "26.848",
+        "high_processing_time": "16467.312",
+        "avg_processing_time": "893.1063636363641"
+      }
+    ]
+  },
+  "XEM": {
+    "full_name": "NEM",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "XEM",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "5.797048000000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 25,
+        "low_processing_time": "3.645",
+        "high_processing_time": "42.378",
+        "avg_processing_time": "20.938299999999995"
+      }
+    ]
+  },
+  "VET": {
+    "full_name": "VeChain",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "VET",
+        "protocol": "VeChain",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "10.406178106317",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 12,
+        "low_processing_time": "1.593",
+        "high_processing_time": "17.282",
+        "avg_processing_time": "7.773810000000001"
+      }
+    ]
+  },
+  "PAXG": {
+    "full_name": "PAX Gold",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "0.011718933108",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "87.769",
+        "high_processing_time": "602.906",
+        "avg_processing_time": "366.0103260869566"
+      }
+    ]
+  },
+  "CLP": {
+    "full_name": "Chilean Peso",
+    "crypto": false,
+    "payin_enabled": false,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "CLPCMKT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "0.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2
+      }
+    ]
+  },
+  "SHIB": {
+    "full_name": "SHIBA INU",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "1315824.100634230",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "18.858",
+        "high_processing_time": "605.18",
+        "avg_processing_time": "320.5174333333333"
+      }
+    ]
+  },
+  "USDT": {
+    "full_name": "USDT",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "BTC",
+        "protocol": "OMNI",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "15.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2,
+        "low_processing_time": "10.745",
+        "high_processing_time": "2224.699",
+        "avg_processing_time": "252.0885967741936"
+      }
+    ]
+  },
+  "HT": {
+    "full_name": "Huobi Token",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "5.255247364493",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "410.958",
+        "high_processing_time": "602.886",
+        "avg_processing_time": "506.9219999999996"
+      }
+    ]
+  },
+  "DASH": {
+    "full_name": "Dash",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "DASH",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.005337350000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 10,
+        "low_processing_time": "2.576",
+        "high_processing_time": "2098.369",
+        "avg_processing_time": "120.30341999999999"
+      }
+    ]
+  },
+  "USDP": {
+    "full_name": "PAX Dollar",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "24.990450000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "573.817",
+        "high_processing_time": "573.817",
+        "avg_processing_time": "573.8169999999994"
+      }
+    ]
+  },
+  "COMP": {
+    "full_name": "Compound",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "0.362010606911",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "19.944",
+        "high_processing_time": "14490.255",
+        "avg_processing_time": "2427.6772244897957"
+      }
+    ]
+  },
+  "XRP": {
+    "full_name": "Ripple",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "XRP",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "1.405264000000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 20,
+        "low_processing_time": "2.439",
+        "high_processing_time": "420.717",
+        "avg_processing_time": "9.38343"
+      }
+    ]
+  },
+  "TRX": {
+    "full_name": "TRON",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "TRX",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "3.682932000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 5,
+        "low_processing_time": "3.11",
+        "high_processing_time": "506.734",
+        "avg_processing_time": "19.612767676767685"
+      }
+    ]
+  },
+  "RUNE": {
+    "full_name": "THORChain",
+    "crypto": true,
+    "payin_enabled": false,
+    "payout_enabled": false,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "BNB",
+        "protocol": "BEP2",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": false,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.100111320000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 100
+      }
+    ]
+  },
+  "USDCPOLY": {
+    "full_name": "USDC Polygon Chain",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": false,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "POLYGON",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "0.250000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 100,
+        "low_processing_time": "2.097",
+        "high_processing_time": "9.496",
+        "avg_processing_time": "5.0161530612244905"
+      }
+    ]
+  },
+  "BSV": {
+    "full_name": "Bitcoin SV",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "BCHSV",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.004496180000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 30,
+        "low_processing_time": "7.232",
+        "high_processing_time": "4428.862",
+        "avg_processing_time": "735.2718958333334"
+      }
+    ]
+  },
+  "BCH": {
+    "full_name": "Bitcoin Cash",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "BCHABC",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.002172230000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2,
+        "low_processing_time": "5.447",
+        "high_processing_time": "4607.123",
+        "avg_processing_time": "488.8476363636364"
+      }
+    ]
+  },
+  "OMG": {
+    "full_name": "OMG Network",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "10.614139413537",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "158.598",
+        "high_processing_time": "528.62",
+        "avg_processing_time": "347.38473469387776"
+      }
+    ]
+  },
+  "DOT": {
+    "full_name": "Polkadot",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "NEWDOT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.0000000001",
+        "payout_fee": "0.050000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 40,
+        "low_processing_time": "4.317",
+        "high_processing_time": "5705.928",
+        "avg_processing_time": "102.62559999999999"
+      }
+    ]
+  },
+  "USTC": {
+    "full_name": "TerraClassicUSD",
+    "crypto": true,
+    "payin_enabled": false,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "2840.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "204.588",
+        "high_processing_time": "204.588",
+        "avg_processing_time": "204.58799999999988"
+      }
+    ]
+  },
+  "CEL": {
+    "full_name": "Celsius",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.0001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.0001",
+        "payout_fee": "26.844700000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "184.234",
+        "high_processing_time": "1108.025",
+        "avg_processing_time": "638.9942500000002"
+      }
+    ]
+  },
+  "BTC": {
+    "full_name": "Bitcoin",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "btc",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.000700000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 1,
+        "low_processing_time": "23.257",
+        "high_processing_time": "2280.372",
+        "avg_processing_time": "757.2362333333336"
+      }
+    ]
+  },
+  "AVAX": {
+    "full_name": "Avalanche",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "AVAX",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000001",
+        "payout_fee": "0.011145688000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2,
+        "low_processing_time": "14.687",
+        "high_processing_time": "14.687",
+        "avg_processing_time": "14.687"
+      }
+    ]
+  },
+  "TUSD": {
+    "full_name": "TrueUSD",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "20.003760000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "8.6",
+        "high_processing_time": "677.066",
+        "avg_processing_time": "341.41627586206897"
+      }
+    ]
+  },
+  "LTC": {
+    "full_name": "Litecoin",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ltc",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.004424550000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 5,
+        "low_processing_time": "11.33",
+        "high_processing_time": "623.617",
+        "avg_processing_time": "222.32393999999996"
+      }
+    ]
+  },
+  "USDC": {
+    "full_name": "USD Coin (erc20)",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "14.994163000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "5.509",
+        "high_processing_time": "635.68",
+        "avg_processing_time": "340.1670707070707"
+      }
+    ]
+  },
+  "THETA": {
+    "full_name": "THETA",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "Theta",
+        "protocol": "Theta",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.201275440000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 15,
+        "low_processing_time": "1.904",
+        "high_processing_time": "880.127",
+        "avg_processing_time": "23.67398"
+      }
+    ]
+  },
+  "ENJ": {
+    "full_name": "Enjin Coin",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "36.323620940000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "11.359",
+        "high_processing_time": "619.416",
+        "avg_processing_time": "383.48982222222224"
+      }
+    ]
+  },
+  "CRO": {
+    "full_name": "Cronos (OLD Crypto.com)",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "159.346043840000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "38.891",
+        "high_processing_time": "798.531",
+        "avg_processing_time": "427.09659999999997"
+      }
+    ]
+  },
+  "ARS": {
+    "full_name": "Argentine Peso",
+    "crypto": false,
+    "payin_enabled": false,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "ARSCMKT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "0.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2
+      }
+    ]
+  },
+  "BTT": {
+    "full_name": "BitTorrent-New",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "TRX",
+        "protocol": "TRC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "271739.1304347800",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 5,
+        "low_processing_time": "6.547",
+        "high_processing_time": "14.646",
+        "avg_processing_time": "10.338117647058825"
+      }
+    ]
+  },
+  "ONE": {
+    "full_name": "Harmony",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ONE",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "11.317748040000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 15,
+        "low_processing_time": "3.525",
+        "high_processing_time": "47.169",
+        "avg_processing_time": "16.9184"
+      }
+    ]
+  },
+  "USDTRX": {
+    "full_name": "Tether TRC20",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "TRX",
+        "protocol": "TRC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "1.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 5,
+        "low_processing_time": "4.27",
+        "high_processing_time": "2086.271",
+        "avg_processing_time": "165.3628686868687"
+      }
+    ]
+  },
+  "NEXO": {
+    "full_name": "Nexo",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "31.341939620000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "28.378",
+        "high_processing_time": "640.577",
+        "avg_processing_time": "430.54714285714283"
+      }
+    ]
+  },
+  "ALGO": {
+    "full_name": "Algorand",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "ALGO",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "0.720723000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 30,
+        "low_processing_time": "2.296",
+        "high_processing_time": "25.119",
+        "avg_processing_time": "8.354419999999998"
+      }
+    ]
+  },
+  "ATOM": {
+    "full_name": "Cosmos",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "ATOM",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "0.026924000000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 10,
+        "low_processing_time": "2.3",
+        "high_processing_time": "1040.631",
+        "avg_processing_time": "28.418547368421056"
+      }
+    ]
+  },
+  "EURS": {
+    "full_name": "STASIS EURS Token",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "17.050000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "277.511",
+        "high_processing_time": "1999.294",
+        "avg_processing_time": "1073.807170212766"
+      }
+    ]
+  },
+  "AAVE": {
+    "full_name": "Aave",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.270968340000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "38.524",
+        "high_processing_time": "624.423",
+        "avg_processing_time": "371.42186666666674"
+      }
+    ]
+  },
+  "USDT20": {
+    "full_name": "Tether ERC20",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "19.980000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "4.221",
+        "high_processing_time": "605.316",
+        "avg_processing_time": "332.47628124999983"
+      }
+    ]
+  },
+  "UNI": {
+    "full_name": "Uniswap",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "2.862020560000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "21.493",
+        "high_processing_time": "7768.076",
+        "avg_processing_time": "476.45676923076917"
+      }
+    ]
+  },
+  "ONT": {
+    "full_name": "Ontology",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "1",
+    "networks": [
+      {
+        "network": "ONT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "1",
+        "payout_fee": "2.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 100,
+        "low_processing_time": "3.304",
+        "high_processing_time": "21905.956",
+        "avg_processing_time": "1340.7763658536587"
+      }
+    ]
+  },
+  "XLM": {
+    "full_name": "Stellar",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.0000001",
+    "networks": [
+      {
+        "network": "XLM",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.0000001",
+        "payout_fee": "2.249091400000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 10,
+        "low_processing_time": "3.962",
+        "high_processing_time": "642.32",
+        "avg_processing_time": "56.683907216494845"
+      }
+    ]
+  },
+  "LINK": {
+    "full_name": "Chainlink",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "2.952513250000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "3.805",
+        "high_processing_time": "605.036",
+        "avg_processing_time": "332.29404081632657"
+      }
+    ]
+  },
+  "YFI": {
+    "full_name": "yearn.finance",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.003984190000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "18.302",
+        "high_processing_time": "603.457",
+        "avg_processing_time": "297.93061363636366"
+      }
+    ]
+  },
+  "LUNC": {
+    "full_name": "LUNA Terra Classic",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "LUNA",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "19230.76923100000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 15,
+        "low_processing_time": "3.691",
+        "high_processing_time": "51.202",
+        "avg_processing_time": "22.32551063829787"
+      }
+    ]
+  },
+  "XTZ": {
+    "full_name": "Tezos",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "XTZ",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.150367800000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 30,
+        "low_processing_time": "3.795",
+        "high_processing_time": "723.327",
+        "avg_processing_time": "22.104470000000006"
+      }
+    ]
+  },
+  "LUNA": {
+    "full_name": "LUNA Terra 2.0",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "LUNANEW",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000001",
+        "payout_fee": "0.100000000000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 15,
+        "low_processing_time": "5.262",
+        "high_processing_time": "8.863",
+        "avg_processing_time": "6.830813953488371"
+      }
+    ]
+  },
+  "COP": {
+    "full_name": "Colombian Peso",
+    "crypto": false,
+    "payin_enabled": false,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "COPCMKT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "0.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2
+      }
+    ]
+  },
+  "EOS": {
+    "full_name": "EOS",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.0001",
+    "networks": [
+      {
+        "network": "EOS",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.0001",
+        "payout_fee": "0.244200000000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 25,
+        "low_processing_time": "2.313",
+        "high_processing_time": "1489.855",
+        "avg_processing_time": "47.15097999999999"
+      }
+    ]
+  },
+  "FIL": {
+    "full_name": "Filecoin",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "FIL",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.043483550000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 5,
+        "low_processing_time": "3.145",
+        "high_processing_time": "24328.749",
+        "avg_processing_time": "1208.9811071428574"
+      }
+    ]
+  },
+  "DAI": {
+    "full_name": "Dai",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "19.989400000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "9.685",
+        "high_processing_time": "769.587",
+        "avg_processing_time": "375.27346464646484"
+      }
+    ]
+  },
+  "SOL": {
+    "full_name": "Solana",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "SOL",
+        "protocol": "Solana",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000001",
+        "payout_fee": "0.006261725000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 120,
+        "low_processing_time": "2.088",
+        "high_processing_time": "6.195",
+        "avg_processing_time": "3.9273448275862064"
+      }
+    ]
+  },
+  "MKR": {
+    "full_name": "Maker",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "0.020256877463",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "33.094",
+        "high_processing_time": "603.16",
+        "avg_processing_time": "251.33474999999996"
+      }
+    ]
+  },
+  "BNB": {
+    "full_name": "Binance Coin (bep2)",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "BNB",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.000973660000",
+        "payout_is_payment_id": true,
+        "payin_payment_id": true,
+        "payin_confirmations": 100,
+        "low_processing_time": "3.036",
+        "high_processing_time": "3482.989",
+        "avg_processing_time": "49.52610999999999"
+      }
+    ]
+  },
+  "PEN": {
+    "full_name": "Peruvian Soles",
+    "crypto": false,
+    "payin_enabled": false,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "PENCMKT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "0.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2
+      }
+    ]
+  },
+  "ETH": {
+    "full_name": "Ethereum",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000000000001",
+    "networks": [
+      {
+        "network": "eth",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000000000001",
+        "payout_fee": "0.003409336536",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "1.788",
+        "high_processing_time": "2502.236",
+        "avg_processing_time": "29.561680000000003"
+      }
+    ]
+  },
+  "NEO": {
+    "full_name": "NEO N3",
+    "crypto": true,
+    "payin_enabled": false,
+    "payout_enabled": false,
+    "transfer_enabled": true,
+    "precision_transfer": "1",
+    "networks": [
+      {
+        "network": "NEO",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": false,
+        "precision_payout": "1",
+        "payout_fee": "0.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 10
+      }
+    ]
+  },
+  "ZEC": {
+    "full_name": "Zcash",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ZEC",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "0.003972940000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 6,
+        "low_processing_time": "7.347",
+        "high_processing_time": "1691.453",
+        "avg_processing_time": "81.32256000000002"
+      }
+    ]
+  },
+  "BUSD": {
+    "full_name": "Binance USD (erc20)",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.00000001",
+    "networks": [
+      {
+        "network": "ETH",
+        "protocol": "ERC20",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.00000001",
+        "payout_fee": "1.999460150000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 9,
+        "low_processing_time": "11.654",
+        "high_processing_time": "2017.458",
+        "avg_processing_time": "437.79501999999985"
+      }
+    ]
+  },
+  "XMR": {
+    "full_name": "Monero",
+    "crypto": true,
+    "payin_enabled": true,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000000001",
+    "networks": [
+      {
+        "network": "xmr",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": true,
+        "payout_enabled": true,
+        "precision_payout": "0.000000000001",
+        "payout_fee": "0.001774861011",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 4,
+        "low_processing_time": "3.167",
+        "high_processing_time": "1223.811",
+        "avg_processing_time": "282.6666"
+      }
+    ]
+  },
+  "BRL": {
+    "full_name": "Brazilian Real",
+    "crypto": false,
+    "payin_enabled": false,
+    "payout_enabled": true,
+    "transfer_enabled": true,
+    "precision_transfer": "0.01",
+    "networks": [
+      {
+        "network": "BRLCMKT",
+        "protocol": "",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": true,
+        "precision_payout": "0.01",
+        "payout_fee": "0.000000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 2
+      }
+    ]
+  },
+  "ADA": {
+    "full_name": "Cardano",
+    "crypto": true,
+    "payin_enabled": false,
+    "payout_enabled": false,
+    "transfer_enabled": true,
+    "precision_transfer": "0.000001",
+    "networks": [
+      {
+        "network": "ADA",
+        "protocol": "ADA",
+        "default": true,
+        "payin_enabled": false,
+        "payout_enabled": false,
+        "precision_payout": "0.000001",
+        "payout_fee": "0.600000000000",
+        "payout_is_payment_id": false,
+        "payin_payment_id": false,
+        "payin_confirmations": 30,
+        "low_processing_time": "38.64",
+        "high_processing_time": "516.25",
+        "avg_processing_time": "309.56143298969084"
+      }
+    ]
+  }
+}

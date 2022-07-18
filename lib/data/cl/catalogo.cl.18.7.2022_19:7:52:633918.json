@@ -70,7 +70,7 @@
         "payin_confirmations": 12,
         "low_processing_time": "1.593",
         "high_processing_time": "17.282",
-        "avg_processing_time": "7.8065999999999995"
+        "avg_processing_time": "7.773810000000001"
       }
     ]
   },
@@ -95,7 +95,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "87.769",
         "high_processing_time": "602.906",
-        "avg_processing_time": "366.9947021276596"
+        "avg_processing_time": "366.0103260869566"
       }
     ]
   },
@@ -142,7 +142,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "18.858",
         "high_processing_time": "605.18",
-        "avg_processing_time": "319.6472111111111"
+        "avg_processing_time": "320.5174333333333"
       }
     ]
   },
@@ -217,7 +217,7 @@
         "payin_confirmations": 10,
         "low_processing_time": "2.576",
         "high_processing_time": "2098.369",
-        "avg_processing_time": "120.25377999999999"
+        "avg_processing_time": "120.30341999999999"
       }
     ]
   },
@@ -267,7 +267,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "19.944",
         "high_processing_time": "14490.255",
-        "avg_processing_time": "2337.1079999999997"
+        "avg_processing_time": "2427.6772244897957"
       }
     ]
   },
@@ -292,7 +292,7 @@
         "payin_confirmations": 20,
         "low_processing_time": "2.439",
         "high_processing_time": "420.717",
-        "avg_processing_time": "9.527190000000001"
+        "avg_processing_time": "9.38343"
       }
     ]
   },
@@ -317,7 +317,7 @@
         "payin_confirmations": 5,
         "low_processing_time": "3.11",
         "high_processing_time": "506.734",
-        "avg_processing_time": "19.636919191919198"
+        "avg_processing_time": "19.612767676767685"
       }
     ]
   },
@@ -364,7 +364,7 @@
         "payin_confirmations": 100,
         "low_processing_time": "2.097",
         "high_processing_time": "9.496",
-        "avg_processing_time": "4.942469387755102"
+        "avg_processing_time": "5.0161530612244905"
       }
     ]
   },
@@ -389,7 +389,7 @@
         "payin_confirmations": 30,
         "low_processing_time": "7.232",
         "high_processing_time": "4428.862",
-        "avg_processing_time": "733.0389387755104"
+        "avg_processing_time": "735.2718958333334"
       }
     ]
   },
@@ -414,7 +414,7 @@
         "payin_confirmations": 2,
         "low_processing_time": "5.447",
         "high_processing_time": "4607.123",
-        "avg_processing_time": "495.09112121212115"
+        "avg_processing_time": "488.8476363636364"
       }
     ]
   },
@@ -464,7 +464,7 @@
         "payin_confirmations": 40,
         "low_processing_time": "4.317",
         "high_processing_time": "5705.928",
-        "avg_processing_time": "103.64621276595743"
+        "avg_processing_time": "102.62559999999999"
       }
     ]
   },
@@ -514,7 +514,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "184.234",
         "high_processing_time": "1108.025",
-        "avg_processing_time": "649.4760000000001"
+        "avg_processing_time": "638.9942500000002"
       }
     ]
   },
@@ -538,8 +538,8 @@
         "payin_payment_id": false,
         "payin_confirmations": 1,
         "low_processing_time": "23.257",
-        "high_processing_time": "2374.43",
-        "avg_processing_time": "713.4749634146343"
+        "high_processing_time": "2280.372",
+        "avg_processing_time": "757.2362333333336"
       }
     ]
   },
@@ -589,7 +589,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "8.6",
         "high_processing_time": "677.066",
-        "avg_processing_time": "341.9809565217392"
+        "avg_processing_time": "341.41627586206897"
       }
     ]
   },
@@ -612,9 +612,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 5,
-        "low_processing_time": "10.402",
+        "low_processing_time": "11.33",
         "high_processing_time": "623.617",
-        "avg_processing_time": "220.48869"
+        "avg_processing_time": "222.32393999999996"
       }
     ]
   },
@@ -639,7 +639,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "5.509",
         "high_processing_time": "635.68",
-        "avg_processing_time": "317.2769999999999"
+        "avg_processing_time": "340.1670707070707"
       }
     ]
   },
@@ -664,7 +664,7 @@
         "payin_confirmations": 15,
         "low_processing_time": "1.904",
         "high_processing_time": "880.127",
-        "avg_processing_time": "23.685020000000005"
+        "avg_processing_time": "23.67398"
       }
     ]
   },
@@ -689,7 +689,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "11.359",
         "high_processing_time": "619.416",
-        "avg_processing_time": "380.532"
+        "avg_processing_time": "383.48982222222224"
       }
     ]
   },
@@ -714,7 +714,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "38.891",
         "high_processing_time": "798.531",
-        "avg_processing_time": "422.9312820512819"
+        "avg_processing_time": "427.09659999999997"
       }
     ]
   },
@@ -786,7 +786,7 @@
         "payin_confirmations": 15,
         "low_processing_time": "3.525",
         "high_processing_time": "47.169",
-        "avg_processing_time": "17.322499999999994"
+        "avg_processing_time": "16.9184"
       }
     ]
   },
@@ -809,9 +809,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 5,
-        "low_processing_time": "3.887",
+        "low_processing_time": "4.27",
         "high_processing_time": "2086.271",
-        "avg_processing_time": "163.61153535353534"
+        "avg_processing_time": "165.3628686868687"
       }
     ]
   },
@@ -834,9 +834,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 9,
-        "low_processing_time": "96.162",
+        "low_processing_time": "28.378",
         "high_processing_time": "640.577",
-        "avg_processing_time": "456.8224166666668"
+        "avg_processing_time": "430.54714285714283"
       }
     ]
   },
@@ -861,7 +861,7 @@
         "payin_confirmations": 30,
         "low_processing_time": "2.296",
         "high_processing_time": "25.119",
-        "avg_processing_time": "8.42545"
+        "avg_processing_time": "8.354419999999998"
       }
     ]
   },
@@ -886,7 +886,7 @@
         "payin_confirmations": 10,
         "low_processing_time": "2.3",
         "high_processing_time": "1040.631",
-        "avg_processing_time": "28.45532631578949"
+        "avg_processing_time": "28.418547368421056"
       }
     ]
   },
@@ -911,7 +911,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "277.511",
         "high_processing_time": "1999.294",
-        "avg_processing_time": "1071.5075833333335"
+        "avg_processing_time": "1073.807170212766"
       }
     ]
   },
@@ -936,7 +936,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "38.524",
         "high_processing_time": "624.423",
-        "avg_processing_time": "367.6632954545455"
+        "avg_processing_time": "371.42186666666674"
       }
     ]
   },
@@ -960,8 +960,8 @@
         "payin_payment_id": false,
         "payin_confirmations": 9,
         "low_processing_time": "4.221",
-        "high_processing_time": "659.003",
-        "avg_processing_time": "338.09118"
+        "high_processing_time": "605.316",
+        "avg_processing_time": "332.47628124999983"
       }
     ]
   },
@@ -986,7 +986,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "21.493",
         "high_processing_time": "7768.076",
-        "avg_processing_time": "493.086564102564"
+        "avg_processing_time": "476.45676923076917"
       }
     ]
   },
@@ -1009,9 +1009,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 100,
-        "low_processing_time": "4.718",
+        "low_processing_time": "3.304",
         "high_processing_time": "21905.956",
-        "avg_processing_time": "2159.4290400000004"
+        "avg_processing_time": "1340.7763658536587"
       }
     ]
   },
@@ -1036,7 +1036,7 @@
         "payin_confirmations": 10,
         "low_processing_time": "3.962",
         "high_processing_time": "642.32",
-        "avg_processing_time": "55.89729896907217"
+        "avg_processing_time": "56.683907216494845"
       }
     ]
   },
@@ -1059,9 +1059,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 9,
-        "low_processing_time": "43.295",
-        "high_processing_time": "603.631",
-        "avg_processing_time": "298.322875"
+        "low_processing_time": "3.805",
+        "high_processing_time": "605.036",
+        "avg_processing_time": "332.29404081632657"
       }
     ]
   },
@@ -1086,7 +1086,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "18.302",
         "high_processing_time": "603.457",
-        "avg_processing_time": "310.054375"
+        "avg_processing_time": "297.93061363636366"
       }
     ]
   },
@@ -1109,9 +1109,9 @@
         "payout_is_payment_id": true,
         "payin_payment_id": true,
         "payin_confirmations": 15,
-        "low_processing_time": "4.348",
-        "high_processing_time": "49.54",
-        "avg_processing_time": "21.301230769230763"
+        "low_processing_time": "3.691",
+        "high_processing_time": "51.202",
+        "avg_processing_time": "22.32551063829787"
       }
     ]
   },
@@ -1136,7 +1136,7 @@
         "payin_confirmations": 30,
         "low_processing_time": "3.795",
         "high_processing_time": "723.327",
-        "avg_processing_time": "14.950690000000003"
+        "avg_processing_time": "22.104470000000006"
       }
     ]
   },
@@ -1161,7 +1161,7 @@
         "payin_confirmations": 15,
         "low_processing_time": "5.262",
         "high_processing_time": "8.863",
-        "avg_processing_time": "6.887041666666666"
+        "avg_processing_time": "6.830813953488371"
       }
     ]
   },
@@ -1206,9 +1206,9 @@
         "payout_is_payment_id": true,
         "payin_payment_id": true,
         "payin_confirmations": 25,
-        "low_processing_time": "2.102",
+        "low_processing_time": "2.313",
         "high_processing_time": "1489.855",
-        "avg_processing_time": "43.147220000000004"
+        "avg_processing_time": "47.15097999999999"
       }
     ]
   },
@@ -1233,7 +1233,7 @@
         "payin_confirmations": 5,
         "low_processing_time": "3.145",
         "high_processing_time": "24328.749",
-        "avg_processing_time": "929.0616046511626"
+        "avg_processing_time": "1208.9811071428574"
       }
     ]
   },
@@ -1281,9 +1281,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 120,
-        "low_processing_time": "2.352",
+        "low_processing_time": "2.088",
         "high_processing_time": "6.195",
-        "avg_processing_time": "3.879434782608696"
+        "avg_processing_time": "3.9273448275862064"
       }
     ]
   },
@@ -1308,7 +1308,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "33.094",
         "high_processing_time": "603.16",
-        "avg_processing_time": "256.8911428571428"
+        "avg_processing_time": "251.33474999999996"
       }
     ]
   },
@@ -1333,7 +1333,7 @@
         "payin_confirmations": 100,
         "low_processing_time": "3.036",
         "high_processing_time": "3482.989",
-        "avg_processing_time": "49.48931999999998"
+        "avg_processing_time": "49.52610999999999"
       }
     ]
   },
@@ -1378,9 +1378,9 @@
         "payout_is_payment_id": false,
         "payin_payment_id": false,
         "payin_confirmations": 9,
-        "low_processing_time": "2.363",
-        "high_processing_time": "305.317",
-        "avg_processing_time": "8.379333333333335"
+        "low_processing_time": "1.788",
+        "high_processing_time": "2502.236",
+        "avg_processing_time": "29.561680000000003"
       }
     ]
   },
@@ -1452,7 +1452,7 @@
         "payin_confirmations": 9,
         "low_processing_time": "11.654",
         "high_processing_time": "2017.458",
-        "avg_processing_time": "444.6598699999998"
+        "avg_processing_time": "437.79501999999985"
       }
     ]
   },
@@ -1477,7 +1477,7 @@
         "payin_confirmations": 4,
         "low_processing_time": "3.167",
         "high_processing_time": "1223.811",
-        "avg_processing_time": "297.54605263157896"
+        "avg_processing_time": "282.6666"
       }
     ]
   },
