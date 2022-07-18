@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.homepage = 'https://rubygems.org/gems/example'
   s.license = 'MIT'
   s.metadata = {'source_code_uri' => 'https://github.com/felipepalma1/obserberos-1.0.0'}
-  s.executables << 'obserberos'
+  s.executables << 'main'
 end
