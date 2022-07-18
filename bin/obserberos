@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'obserberos'
+obserberos = Obserberos::Fetcher.new()
+obserberos.exe
