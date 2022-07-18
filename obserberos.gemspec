@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.authors = ['Felipe Palma Castro']
   s.files = ['LICENSE', 'README.rdoc', 'Rakefile', 'obserberos.gemspec', 'lib/obserberos.rb', 'lib/support/chronos.rb', 'lib/data']
   s.description = 'Programa que tiene por objetivo respaldar valores historicos de cryptomonedas'
-  s.email = 'momo@crypto.erica.cl'
+  s.email = 'felipepalmacastro@crypto.erica.cl'
   s.homepage = 'https://rubygems.org/gems/example'
   s.license = 'MIT'
   s.metadata = {'source_code_uri' => 'https://github.com/felipepalma1/obserberos-1.0.0'}
