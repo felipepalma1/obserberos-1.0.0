@@ -2,4 +2,4 @@
 
 require 'obserberos'
 obserberos = Obserberos::Fetcher.new()
-obserberos.exe
+obserberos.main

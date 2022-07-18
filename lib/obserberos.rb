@@ -8,7 +8,7 @@ module Obserberos
     class Fetcher
         
         public
-        def exe
+        def main
             
             chronos = Chronos::Capturador.new         
             hoy = chronos.cadena(chronos.scream)
