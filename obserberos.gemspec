@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version = '1.0.0'
   s.summary = 'Archivador Crypto'
   s.authors = ['Felipe Palma Castro']
-  s.files = ['LICENSE', 'README.rdoc', 'Rakefile', 'obserberos.gemspec', 'lib/obserberos.rb', 'lib/support/chronos.rb', 'lib/data']
+  s.files = ['LICENSE', 'README.rdoc', 'Rakefile', 'obserberos.gemspec', 'lib/obserberos.rb', 'lib/support/chronos.rb']
   s.description = 'Programa que tiene por objetivo respaldar valores historicos de cryptomonedas'
   s.email = 'felipepalmacastro@crypto.erica.cl'
   s.homepage = 'https://rubygems.org/gems/example'
